@@ -1,0 +1,9 @@
+# .github/CODEOWNERS
+# all files -> single user
+* @anilyadav-m
+
+# all files under src/ -> team in your org
+src/ @your-org/frontend-team
+
+# docs folder -> another user
+/docs/ @doc-writer
