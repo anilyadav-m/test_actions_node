@@ -1,0 +1,15 @@
+{
+  "name": "test_actions_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jest": "^30.4.2"
+  }
+}
