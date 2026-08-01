@@ -4,7 +4,7 @@
 const {add,subtract,multiply,divide} = require('./calculate')
 describe('Calculator Functions', () => {
     test('addition', () => {
-        expect(add(2, 4)).toBe(6);
+        expect(add(2, 3)).toBe(5);
     });
     test('subtraction', () => {
         expect(subtract(5, 2)).toBe(3);
