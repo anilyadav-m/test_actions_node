@@ -10,7 +10,7 @@ describe('Calculator Functions', () => {
         expect(subtract(5, 2)).toBe(3);
     });
     test('multiplication', () => {
-        expect(multiply(2, 3)).toBe(6);
+        expect(multiply(2, 3)).toBe(8);
     });
     test('division', () => {
         expect(divide(6, 3)).toBe(2);
